@@ -57,6 +57,18 @@
         <span>Ionic</span><br><br><br>
         <img height="30px" src="https://cdn.svgporn.com/logos/ionic.svg">
       </td>
+      <td width="15%" align="center">
+        <span>Laravel</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>Oracle</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/oracle.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="15%" align="center">
@@ -70,6 +82,10 @@
       <td width="15%" align="center">
         <span>PHP</span><br><br><br>
         <img height="20px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="20px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
   </tbody>
