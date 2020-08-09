@@ -11,39 +11,25 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="15%" align="center">
         <span>Srping</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/spring.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="15%" align="center">
         <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="15%" align="center">
         <span>Materialize</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/materializecss.svg">
       </td>
-      <td width="10%" align="center">
+      <td width="15%" align="center">
         <span>Hibernate</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
+        <img height="54px" src="https://cdn.svgporn.com/logos/hibernate.svg">
       </td>
       <td width="15%" align="center">
         <span>Bootstrap</span><br><br><br>
-        <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="30px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="30px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="15%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="30px" src="https://cdn.svgporn.com/logos/php.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -66,6 +52,24 @@
       <td width="15%" align="center">
         <span>Gradle</span><br><br><br>
         <img height="30px" src="https://cdn.svgporn.com/logos/gradle.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>Ionic</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/ionic.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="15%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="20px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="20px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="20px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
     </tr>
   </tbody>
