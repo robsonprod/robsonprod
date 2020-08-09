@@ -1,6 +1,6 @@
 ### Hi there
 
-- Hi my name is robson azevedo i am a java developer looking to make life easier for users looking for quality productivity
+- My name is robson azevedo i am a java developer looking to make life easier for users looking for productivity and quality
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,53 +11,61 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>Srping</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>PostgreSQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>Materialize</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Materialize</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Materialize</span><br><br><br>
+      <td width="10%" align="center">
+        <span>Hibernate</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
       </td>
+      <td width="15%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="30px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="10%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="30px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+        <img height="30px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+        <img height="30px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="15%" align="center">
         <span>Swagger</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/swagger.svg">
+        <img height="30px" src="https://cdn.svgporn.com/logos/swagger.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Swagger</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/swagger.svg">
+      <td width="15%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>Eclipse</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/eclipse.svg">
+      </td>
+      <td width="15%" align="center">
+        <span>Gradle</span><br><br><br>
+        <img height="30px" src="https://cdn.svgporn.com/logos/gradle.svg">
       </td>
     </tr>
   </tbody>
