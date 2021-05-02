@@ -93,7 +93,7 @@
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [Cogerh](https://www.cogerh.com.br/)
+- 💻 [Instituto Atlantico](https://www.atlantico.com.br/)
 
 ---
 
